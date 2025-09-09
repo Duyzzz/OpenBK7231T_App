@@ -189,6 +189,7 @@ jobs:
           
           - platform: OpenBK7238
             variant: berry
+            
     steps:
       - name: Source checkout
         uses: actions/checkout@v4
